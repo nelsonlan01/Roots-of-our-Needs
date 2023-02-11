@@ -1,0 +1,10 @@
+    PlayerName: ABC
+        InventoriesNo: 0
+        Last Access linux time: 1676137473
+        Inventories list here:
+            TestA: 99
+        Own Nodes list here:
+            - TestA
+        Current Index on:
+            - TestA
+        Score: 0
