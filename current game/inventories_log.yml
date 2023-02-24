@@ -1,10 +1,11 @@
-    PlayerName: ABC
+    PlayerName: nelsonlan01
         InventoriesNo: 0
-        Last Access linux time: 1676137473
+        Last Access linux time: 1677248323
         Inventories list here:
-            TestA: 99
+            Seeds: 9
         Own Nodes list here:
-            - TestA
+            - Seeds
         Current Index on:
-            - TestA
+            - Seeds
+                - Branch: 0
         Score: 0
