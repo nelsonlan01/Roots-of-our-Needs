@@ -1,2 +1,3 @@
 Sequence No. || PlayerName|| TimeStamp in linux time ||  Action / Production (Spent and yielded) ||
 0 || nelsonlan01 || 1677248323 || Played "Seeds" Card and yielded for 3 (x3) -> 9 Seeds ||
+1 || nelsonlan01 || 1677344973 || Played "Grain" Card and moved on "Grains:0,1" ; spent 1 "Seeds" and yielded for (2x3)/2  -> 3 Grains ||

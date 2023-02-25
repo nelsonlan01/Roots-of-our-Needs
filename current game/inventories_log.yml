@@ -1,11 +1,12 @@
     PlayerName: nelsonlan01
         InventoriesNo: 0
-        Last Access linux time: 1677248323
+        Last Access linux time: 1677344973
         Inventories list here:
-            Seeds: 9
+            Seeds: 8
+            Grains: 3
         Own Nodes list here:
-            - Seeds
+            - Seeds : 0
+            - Grain : [0,1]
         Current Index on:
-            - Seeds
-                - Branch: 0
+            - Grain : 0
         Score: 0
